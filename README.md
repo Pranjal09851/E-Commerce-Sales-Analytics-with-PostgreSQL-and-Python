@@ -50,27 +50,27 @@ Revenue definition: SUM(price) from orders with status delivered, excluding frei
 
 All figures are in BRL and come from delivered orders between January 2017 and August 2018, unless stated otherwise.
 
-Headline KPIs: total revenue [FILL IN], [FILL IN] orders, [FILL IN] unique customers, average order value [FILL IN].
+Headline KPIs: total revenue [13221498.11], [96478] orders, [93358] unique customers, average order value [137.04].
 
 5.1 Revenue trend
-<img width="1105" height="607" alt="image" src="https://github.com/user-attachments/assets/830a4297-0fec-41fe-b348-cb0a24e02eb3" />
-Observation: Monthly revenue moved from [FILL IN: Jan 2017 value] to [FILL IN: Aug 2018 value]. The peak was in [FILL IN: month] at [FILL IN: value].
-Why it matters: [FILL IN: e.g. seasonality, whether growth is slowing in 2018]
+<img width="465" height="786" alt="image" src="https://github.com/user-attachments/assets/a7359398-c572-41a8-a716-7aa19bf9d2c2" />
+Observation: Monthly revenue moved from [11179836: Jan 2017 value] to [838576.64: Aug 2018 value]. The peak was in [FEB: month] at [234223.40: value].
 
 5.2 Categories and geography
-<img width="1105" height="600" alt="image" src="https://github.com/user-attachments/assets/3aec7966-25a0-4faa-b906-dc1fea04e37c" />
-Observation: The top 3 categories ([FILL IN: names]) account for [FILL IN]% of revenue. [FILL IN: state] alone generates [FILL IN]% of revenue.
-Why it matters: [FILL IN: e.g. revenue concentration risk]
+<img width="500" height="362" alt="image" src="https://github.com/user-attachments/assets/d72d8a8b-48ed-4f7a-9ed6-303edbfa966a" />
+<img width="502" height="486" alt="image" src="https://github.com/user-attachments/assets/e3d895c9-bde2-4b71-b2ca-ec74cbcad4c1" />
+Observation: The top 3 categories ([health_beuaty,watches_gifts,bed_bath_tables: names]) account for [123313.72,1166176.98,1023434.76]% of revenue. [SP,RJ,MG: state] alone generates [5067633.16,1759651.13,1552481.83]% of revenue.
+]
 
 5.3 Delivery performance and customer satisfaction
-<img width="735" height="568" alt="image" src="https://github.com/user-attachments/assets/38a36ab9-fd96-45a2-a765-1a1aef0aa1bc" />
-Observation: Average review score is [FILL IN] for on-time deliveries versus [FILL IN] for late ones. [FILL IN]% of orders arrive after the estimated date. The slowest states are [FILL IN], at about [FILL IN] days on average.
-Why it matters: [FILL IN: late delivery is the main driver of poor reviews / your own interpretation]
+<img width="590" height="458" alt="download" src="https://github.com/user-attachments/assets/730e2b28-9778-4232-b297-dd5ba4916685" />
+Observation: Average review score is [4.29] for on-time deliveries versus [2.57] for late ones. [1.72]% of orders arrive after the estimated date. The slowest states are [SP], at about [8.8] days on average.
+
 
 5.4 Customer retention
 <img width="915" height="684" alt="download" src="https://github.com/user-attachments/assets/71c45f13-9ee6-4a41-b0b6-147f36e8edcd" />
-Observation: Only [FILL IN]% of customers placed more than one order. Month-1 retention is below [FILL IN]% for every cohort.
-Why it matters: [FILL IN: e.g. the business relies on acquiring new customers rather than retaining existing ones]
+Observation: Only [3]% of customers placed more than one order. Month-1 retention is below [0.72]% for every cohort.
+
 
 5.5 RFM segments
 Segment	              Customers	 share	Avg spend (BRL)				
@@ -82,14 +82,14 @@ Champions	              1543		264.3	     3.1
 Loyal / Repeat	        1258		254.9	     2.4
 
 5.6 Other observations
-Payments: [FILL IN: e.g. credit card share]% of payment value.
-Sellers: The top 10 sellers contribute [FILL IN]% of revenue.
+Payments: [credit card share_pct:78.3]% of payment value.
+Sellers: The top 10 sellers contribute 1754800.0 of revenue.
 
 6. Recommendations
 #	Finding	Recommendation
 1	Late deliveries reduce review scores	Set more realistic delivery estimates in the slowest states and flag consistently late sellers
 2	Very low repeat purchase rate	Launch post-purchase campaigns (e.g. a coupon for a second order within 30 days)
-3	Revenue concentrated in a few states/categories	[FILL IN: e.g. targeted expansion in high-potential states]
+3	Revenue concentrated in a few states/categories	
 
 Actions by RFM segment
 High-Value New: second-purchase coupon within 30 days
