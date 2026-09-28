@@ -50,7 +50,7 @@ Revenue definition: SUM(price) from orders with status delivered, excluding frei
 
 All figures are in BRL and come from delivered orders between January 2017 and August 2018, unless stated otherwise.
 
-Headline KPIs: total revenue [13221498.11], [96478] orders, [93358] unique customers, average order value [137.04].
+Headline KPIs: total revenue BRL 13.22M, 96,478 delivered orders, 93,358 unique customers, average order value BRL 137.04.
 
 5.1 Revenue trend
 <img width="465" height="786" alt="image" src="https://github.com/user-attachments/assets/a7359398-c572-41a8-a716-7aa19bf9d2c2" />
@@ -59,17 +59,15 @@ Observation: Monthly revenue moved from [11179836: Jan 2017 value] to [838576.64
 5.2 Categories and geography
 <img width="500" height="362" alt="image" src="https://github.com/user-attachments/assets/d72d8a8b-48ed-4f7a-9ed6-303edbfa966a" />
 <img width="502" height="486" alt="image" src="https://github.com/user-attachments/assets/e3d895c9-bde2-4b71-b2ca-ec74cbcad4c1" />
-Observation: The top 3 categories ([health_beuaty,watches_gifts,bed_bath_tables: names]) account for [123313.72,1166176.98,1023434.76]% of revenue. [SP,RJ,MG: state] alone generates [5067633.16,1759651.13,1552481.83]% of revenue.
-]
+Observation:The top 3 categories (health_beauty, watches_gifts, bed_bath_table) account for 25.9% of revenue. Three states, SP, RJ and MG, generate 63.4%, with SP alone at 38.3%.
 
 5.3 Delivery performance and customer satisfaction
 <img width="590" height="458" alt="download" src="https://github.com/user-attachments/assets/730e2b28-9778-4232-b297-dd5ba4916685" />
-Observation: Average review score is [4.29] for on-time deliveries versus [2.57] for late ones. [1.72]% of orders arrive after the estimated date. The slowest states are [SP], at about [8.8] days on average.
-
+Observation: Average review score is 4.29 for on-time deliveries versus 2.57 for late ones, a gap of 1.72 points. 
 
 5.4 Customer retention
 <img width="915" height="684" alt="download" src="https://github.com/user-attachments/assets/71c45f13-9ee6-4a41-b0b6-147f36e8edcd" />
-Observation: Only [3]% of customers placed more than one order. Month-1 retention is below [0.72]% for every cohort.
+Observation: Only 3.0% of customers placed more than one order, and month-1 retention is below 1% for every cohort.
 
 
 5.5 RFM segments
@@ -82,7 +80,7 @@ Champions	              1543		264.3	     3.1
 Loyal / Repeat	        1258		254.9	     2.4
 
 5.6 Other observations
-Payments: [credit card share_pct:78.3]% of payment value.
+Payments:Credit card is 78.3% of payment value. The top 10 sellers contribute 13.3% of revenue.
 Sellers: The top 10 sellers contribute 1754800.0 of revenue.
 
 6. Recommendations
